@@ -7,8 +7,8 @@ body {
 }
 
 header {
-  background-color: #0077cc;
-  color: white;
+  background-color: #e89b00;
+  color: rgb(0, 0, 0);
   padding: 2rem;
   text-align: center;
 }
@@ -37,6 +37,6 @@ header {
 footer {
   text-align: center;
   padding: 1rem;
-  background-color: #0077cc;
-  color: white;
+  background-color: #e89b00;
+  color: rgb(0, 0, 0);
 }
